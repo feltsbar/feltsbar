@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feltsbar
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning Kotlin and XML 
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: kuzmin.max6569@gmail.com and @feltsbar on socials
 
 <!---
