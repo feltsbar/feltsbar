@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maksim
-- 👀 I’m interested in Android development in Kotlin
+- 👀 I’m Junior Android developer, write on Kotlin
 - 📫 How to reach me: kuzmin.max6569@gmail.com and @feltsbar on socials
 
 <!---
